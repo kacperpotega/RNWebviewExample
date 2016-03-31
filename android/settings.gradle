@@ -1,0 +1,3 @@
+rootProject.name = 'RNWebviewExample'
+
+include ':app'
